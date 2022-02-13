@@ -15,7 +15,7 @@
 
 `Public branch` - For your channel
 <p align="left">
-<a href="https://github.com/Devilharsha/Senk-VIDEO-convertor/tree/public"> <img src="https://img.shields.io/badge/Github-public%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/Devilharsha/Senku-VIDEO-convertor/tree/public"> <img src="https://img.shields.io/badge/Github-public%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
 
 `Telegran Channel` - SenkuBots
@@ -38,7 +38,7 @@ Deploy your own bot on heroku.
 
 `Warning` - There are two different branches available, look(above) which one you want to deploy. Go to `public` branch if you need bot for your `channel`.
   
-<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="250""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Devilharsha/Senku-video-converter"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="250""/></a></p>
 
 `Alternate way:`
 

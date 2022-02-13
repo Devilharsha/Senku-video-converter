@@ -10,7 +10,7 @@
   
 `Main branch` - For personal use
 <p align="left">
-<a href="https://github.com/Devilharsha/Senku-VIDEO-convertor/tree/main"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/Devilharsha/Senku-video-converter/tree/main"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
 
 `Public branch` - For your channel

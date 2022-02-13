@@ -1,5 +1,5 @@
-#tg:ChauhanMahesh/DroneBots
-#github.com/vasusen-code
+#tg: devilharsha/SenkuBots 
+#github.com/devilharsha
 
 import os
 from .. import Drone
@@ -55,8 +55,8 @@ async def notice(event):
 async def source(event):
     await event.edit(source_text,
                     buttons=[[
-                         Button.url("Main.", url="https://github.com/vasusen-code/videoconvertor/tree/main"),
-                         Button.url("PUBLIC", url="https://github.com/vasusen-code/videoconvertor/tree/public")]])
+                         Button.url("Main.", url="https://github.com/Devilharsha/Senku-video-converter/tree/main"),
+                         Button.url("PUBLIC", url="https://github.com/Devilharsha/Senku-video-converter/tree/public")]])
                          
                     
 @Drone.on(events.callbackquery.CallbackQuery(data="help"))
